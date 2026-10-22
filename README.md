@@ -1,3 +1,5 @@
+> **Moved.** On 2026-10-22 this repository merged into [SoFluffyOS/raccoon](https://github.com/SoFluffyOS/raccoon) at `packages/raccoon_runtime`, every commit kept. It is archived; issues and changes go there.
+
 # raccoon_runtime
 
 The host side of the Raccoon runtime, as Lumide uses it: the
